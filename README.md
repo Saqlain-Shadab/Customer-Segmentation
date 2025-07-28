@@ -58,3 +58,9 @@ Final customer segments:
 - 🐳 **Whales**: 25  
 ---
 
+**🔍 Key Insights**
+
+- A small segment of **Whales** contributes disproportionately to revenue  
+- A large group of **Lapsed Customers** shows opportunity for re-engagement  
+- **Average Customers** form the bulk of the customer base and can be upsold  
+- RFM + Clustering enables **data-driven customer relationship management**
