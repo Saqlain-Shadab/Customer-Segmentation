@@ -1,4 +1,7 @@
+<div align="center"> 
 ## 📊 Customer Segmentation with RFM Analysis & K-Means Clustering
+  
+</div>
 
 **Project Overview**  
 This project uses **RFM (Recency, Frequency, Monetary)** analysis and **K-Means clustering** to segment customers based on purchasing behavior. The goal is to identify customer groups like **high-value buyers**, **inactive customers**, and **average shoppers** to support personalized marketing and business decision-making.
